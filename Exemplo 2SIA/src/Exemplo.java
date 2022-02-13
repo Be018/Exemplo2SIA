@@ -16,8 +16,6 @@ public class Exemplo {
 		System.out.println("Alterado no github");
 	}
 
-	}
-
 	public static void preencher (int[] v) {
 		Scanner teclado = new Scanner (System.in);
 		for (int i = 0; i < v.length; i++) {
