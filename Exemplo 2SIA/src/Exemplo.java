@@ -11,6 +11,11 @@ public class Exemplo {
 		System.out.println("maior valor = " + maior);
 		System.out.println("menor valor = " + menor);
 		System.out.println("Fechando o projeto");
+		System.out.println("menor valor = " + menor);
+		System.out.println("Fechando o projeto");
+		System.out.println("Alterado no github");
+	}
+
 	}
 
 	public static void preencher (int[] v) {
